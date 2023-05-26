@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/experimental-deployment/static/css/main.c2cab247.css",
+    "main.js": "/experimental-deployment/static/js/main.fa52b1d2.js",
+    "index.html": "/experimental-deployment/index.html",
+    "main.c2cab247.css.map": "/experimental-deployment/static/css/main.c2cab247.css.map",
+    "main.fa52b1d2.js.map": "/experimental-deployment/static/js/main.fa52b1d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.fa52b1d2.js"
+  ]
+}
